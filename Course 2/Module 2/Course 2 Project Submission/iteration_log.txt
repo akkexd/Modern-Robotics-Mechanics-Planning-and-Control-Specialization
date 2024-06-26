@@ -1,0 +1,102 @@
+Iteration 0:
+
+Joint Vector :
+ 6.0000 -2.5000  4.5000 -5.0000  3.5000  1.5000
+
+SE(3) end-effector config:
+-0.2051 -0.0718 -0.9761  0.0527
+ 0.9782 -0.0495 -0.2019 -0.0811
+-0.0338 -0.9962  0.0804 -0.3255
+ 0.0000  0.0000  0.0000  1.0000
+
+error twist V_b:
+-1.1302 -0.9893  1.3237  0.1028 -0.8082  0.0790
+
+angular error magnitude ||omega_b||:  2.0021
+linear error magnitude ||v_b||:  0.8185
+
+Iteration 1:
+
+Joint Vector :
+ 6.1696 -2.8210  4.2092 -5.2359  3.7769  1.6512
+
+SE(3) end-effector config:
+ 0.6969 -0.3574 -0.6218 -0.2847
+ 0.7165  0.3850  0.5817  0.2209
+ 0.0315 -0.8509  0.5244 -0.1156
+ 0.0000  0.0000  0.0000  1.0000
+
+error twist V_b:
+-2.0585 -1.6703  1.3391 -0.1809 -0.2069  0.1848
+
+angular error magnitude ||omega_b||:  2.9699
+linear error magnitude ||v_b||:  0.3312
+
+Iteration 2:
+
+Joint Vector :
+ 6.2883 -3.1280  3.8614 -5.6230  4.2912  1.7789
+
+SE(3) end-effector config:
+ 0.9472  0.1588  0.2785  0.0027
+-0.2557  0.8983  0.3573  0.6909
+-0.1935 -0.4097  0.8915  0.2157
+ 0.0000  0.0000  0.0000  1.0000
+
+error twist V_b:
+ 1.4274  1.3914 -0.6520  0.1987 -0.8781 -0.0287
+
+angular error magnitude ||omega_b||:  2.0973
+linear error magnitude ||v_b||:  0.9008
+
+Iteration 3:
+
+Joint Vector :
+ 6.3515 -2.9178  4.1536 -5.2900  3.9619  1.6758
+
+SE(3) end-effector config:
+ 0.8233 -0.4928 -0.2815 -0.2346
+ 0.5517  0.5786  0.6007  0.3109
+-0.1332 -0.6499  0.7483  0.1403
+ 0.0000  0.0000 -0.0000  1.0000
+
+error twist V_b:
+ 2.2061  1.4596 -1.2880 -0.1350 -0.3796 -0.2187
+
+angular error magnitude ||omega_b||:  2.9422
+linear error magnitude ||v_b||:  0.4584
+
+Iteration 4:
+
+Joint Vector :
+ 6.1732 -2.7082  4.4410 -4.8911  3.4071  1.5146
+
+SE(3) end-effector config:
+-0.0389 -0.1549 -0.9872  0.0542
+ 0.9992  0.0044 -0.0401 -0.0960
+ 0.0105 -0.9879  0.1546 -0.2012
+ 0.0000  0.0000  0.0000  1.0000
+
+error twist V_b:
+-1.2889 -1.1077  1.3467  0.2227 -0.7211  0.1681
+
+angular error magnitude ||omega_b||:  2.1684
+linear error magnitude ||v_b||:  0.7732
+
+Iteration 5:
+
+Joint Vector :
+ 6.3811 -3.0282  4.1580 -5.1300  3.7177  1.6644
+
+SE(3) end-effector config:
+ 0.7960 -0.4363 -0.4195 -0.1888
+ 0.5912  0.4123  0.6931  0.2328
+-0.1294 -0.7998  0.5862  0.0992
+ 0.0000  0.0000  0.0000  1.0000
+
+error twist V_b:
+-2.3572 -1.6654  1.2288 -0.0825  0.0397  0.4516
+
+angular error magnitude ||omega_b||:  3.1368
+linear error magnitude ||v_b||:  0.4608
+
